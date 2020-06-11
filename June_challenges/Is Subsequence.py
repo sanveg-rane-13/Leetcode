@@ -23,3 +23,4 @@ class Solution:
             if ptr_s == -1: return True
             
         return False
+    
